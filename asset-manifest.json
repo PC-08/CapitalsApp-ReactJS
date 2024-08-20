@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CapitalsApp-ReactJS/static/css/main.3a3f672c.chunk.css",
+    "main.js": "/CapitalsApp-ReactJS/static/js/main.25f1e22f.chunk.js",
+    "main.js.map": "/CapitalsApp-ReactJS/static/js/main.25f1e22f.chunk.js.map",
+    "runtime-main.js": "/CapitalsApp-ReactJS/static/js/runtime-main.753f71b6.js",
+    "runtime-main.js.map": "/CapitalsApp-ReactJS/static/js/runtime-main.753f71b6.js.map",
+    "static/js/2.624fa0e6.chunk.js": "/CapitalsApp-ReactJS/static/js/2.624fa0e6.chunk.js",
+    "static/js/2.624fa0e6.chunk.js.map": "/CapitalsApp-ReactJS/static/js/2.624fa0e6.chunk.js.map",
+    "index.html": "/CapitalsApp-ReactJS/index.html",
+    "static/css/main.3a3f672c.chunk.css.map": "/CapitalsApp-ReactJS/static/css/main.3a3f672c.chunk.css.map",
+    "static/js/2.624fa0e6.chunk.js.LICENSE.txt": "/CapitalsApp-ReactJS/static/js/2.624fa0e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753f71b6.js",
+    "static/js/2.624fa0e6.chunk.js",
+    "static/css/main.3a3f672c.chunk.css",
+    "static/js/main.25f1e22f.chunk.js"
+  ]
+}
